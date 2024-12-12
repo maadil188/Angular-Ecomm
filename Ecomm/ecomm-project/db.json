@@ -1,47 +1,5 @@
 {
   "seller": [
-    {
-      "id": "20a6",
-      "name": "Adil",
-      "email": "Adil@seller.com",
-      "password": "abc@123"
-    },
-    {
-      "id": "d06d",
-      "name": "abc",
-      "password": "abc@123",
-      "email": "abc123@txt.com"
-    },
-    {
-      "id": "be86",
-      "name": "abc",
-      "password": "abc@123",
-      "email": "abc123@txt.com"
-    },
-    {
-      "id": "ba7b",
-      "name": "ABCD",
-      "password": "ABCD@123",
-      "email": "ABCD123@txt.com"
-    },
-    {
-      "id": "4d4e",
-      "name": "abc",
-      "password": "abc@123",
-      "email": "abc123@txt.com"
-    },
-    {
-      "id": "4f33",
-      "name": "",
-      "password": "",
-      "email": ""
-    },
-    {
-      "id": "b9e2",
-      "name": "omer",
-      "password": "omer@123",
-      "email": "omer123@txt.com"
-    }
   ],
   "products": [
     {
@@ -91,42 +49,6 @@
     }
   ],
   "users": [
-    {
-      "id": "4431",
-      "name": "Adil",
-      "email": "Adil123@gmail.com",
-      "password": "Adil123@"
-    },
-    {
-      "id": "bbf7",
-      "name": "zaid",
-      "email": "zaid123@txt.com",
-      "password": "zaid123@"
-    },
-    {
-      "id": "74f9",
-      "name": "Sohail",
-      "email": "Sohail123@gmail.com",
-      "password": "sohail123@"
-    },
-    {
-      "id": "8159",
-      "name": "zia",
-      "email": "zia1@txt.com",
-      "password": "zia123@"
-    },
-    {
-      "id": "8a41",
-      "name": "omer",
-      "email": "omer123@txt.com",
-      "password": "omer123@"
-    },
-    {
-      "id": "da01",
-      "name": "demo user",
-      "email": "demo@test.com",
-      "password": "abc@123"
-    }
   ],
   "cart": [
     {
