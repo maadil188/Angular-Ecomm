@@ -1,0 +1,15 @@
+<div class="row search-item" *ngFor="let item of searchResult">
+    <div class="col-sm-3">
+    <a routerLink="/details/{{item.id}}">
+      <img src="{{item.image}}" alt="{{item.name}}">
+    </a>
+    </div>
+    <div class="col-sm-8">
+      <h6> <a routerLink="/details/{{item.id}}">{{item.name}}</a></h6>
+      <p><b><a routerLink="/details/{{item.id}}">Price: {{item.price}}</a></b></p>
+      <p><span><a routerLink="/details/{{item.id}}">Color: {{item.color}}</a></span> <span><a routerLink="/details/{{item.id}}">Category: {{item.category}}</a></span></p>
+      <p><a routerLink="/details/{{item.id}}">{{item.description}}</a></p>
+    </div>
+  </div>
+  <p *ngIf="!searchResult || searchResult.length === 0">No results found</p>
+  

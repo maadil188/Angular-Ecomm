@@ -1,0 +1,182 @@
+{
+  "seller": [
+    {
+      "id": "20a6",
+      "name": "Adil",
+      "email": "Adil@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "d06d",
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc123@txt.com"
+    },
+    {
+      "id": "be86",
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc123@txt.com"
+    },
+    {
+      "id": "ba7b",
+      "name": "ABCD",
+      "password": "ABCD@123",
+      "email": "ABCD123@txt.com"
+    },
+    {
+      "id": "4d4e",
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc123@txt.com"
+    },
+    {
+      "id": "4f33",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "b9e2",
+      "name": "omer",
+      "password": "omer@123",
+      "email": "omer123@txt.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "HP 14",
+      "price": "36980",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "HP Laptop 35.6 cm (14) 14-gr0001TU, Silver\n\n13th Generation Intel® Core™ i5 processor\nWindows 11 Home\n35.6 cm (14) diagonal FHD display with Intel® Iris® Xᵉ Graphics\n16 GB DDR4 RAM\n512 GB SSD Hard drive\nBacklit keyboard with numeric keypad, HP True Vision 1080p FHD",
+      "image": "https://th.bing.com/th/id/OIP.8oLRWyq5kEgRuHMWRjn8EQHaFr?w=249&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": "8dd0"
+    },
+    {
+      "name": "SAMSUNG S24",
+      "price": "96749",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "The Samsung Galaxy S24 Ultra is a smartphone with the following features123:\nDesign: Big, bold, and titanium.\nDisplay: Ultra-sharp and fast, with a peak brightness of 2,600 nits.\nS Pen Stylus: Write away.\nSnapdragon Processor: Plenty of power.\nBattery Life: Better than last gen.\nConnectivity, Call Quality, and Speakers.\nCameras: Top-notch image quality.\nGalaxy AI is here.",
+      "image": "https://th.bing.com/th/id/OIP.KYLaaRTQ4bGXLczrjyu8EgHaHd?w=193&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": "853b"
+    },
+    {
+      "name": "IPHONE 15",
+      "price": "56000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "The iPhone 15 features the A16 Bionic chip, USB-C, a 48MP camera, and MagSafe1. It has a 20-hour battery life and a Dynamic Island feature for seamless alerts12. The phone is made with infused glass and aerospace-grade aluminum, and is water and dust resistant2. The 48 MP Main Camera allows for precise photography2. The display is a Super Retina XDR OLED with HDR10, Dolby Vision, and Ceramic Shield glass protection3.",
+      "image": "data:image/jpeg;base64,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",
+      "id": "bb7f"
+    },
+    {
+      "id": "76a2",
+      "name": "AIR SHOE",
+      "price": "1350",
+      "color": "Black",
+      "category": "Shoe",
+      "description": "Air pockets integrated into the soles of shoes.",
+      "image": "https://th.bing.com/th/id/OIP.2ud8kPYaVL6Ol0kftELvNwHaHa?w=224&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": "0042",
+      "name": "DELL LAPTOP BAG",
+      "price": "1200",
+      "color": "Black",
+      "category": "Bag",
+      "description": "The foam cushioning offers shock resistance. Earth-friendly, impact-resistant protection keeps your laptop and all office essential, electronics safe from the elements. Lightweight and comfortable to carry around with padded handles that allow you to grab and go in three flexible ways.",
+      "image": "http://ts3.mm.bing.net/th?id=OIP.DnEXWfnAbzcS1uydsSyfagHaIq&pid=15.1"
+    }
+  ],
+  "users": [
+    {
+      "id": "4431",
+      "name": "Adil",
+      "email": "Adil123@gmail.com",
+      "password": "Adil123@"
+    },
+    {
+      "id": "bbf7",
+      "name": "zaid",
+      "email": "zaid123@txt.com",
+      "password": "zaid123@"
+    },
+    {
+      "id": "74f9",
+      "name": "Sohail",
+      "email": "Sohail123@gmail.com",
+      "password": "sohail123@"
+    },
+    {
+      "id": "8159",
+      "name": "zia",
+      "email": "zia1@txt.com",
+      "password": "zia123@"
+    },
+    {
+      "id": "8a41",
+      "name": "omer",
+      "email": "omer123@txt.com",
+      "password": "omer123@"
+    },
+    {
+      "id": "da01",
+      "name": "demo user",
+      "email": "demo@test.com",
+      "password": "abc@123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "df63",
+      "name": "SAMSUNG S24",
+      "price": "96,749",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "The Samsung Galaxy S24 Ultra is a smartphone with the following features123:\nDesign: Big, bold, and titanium.\nDisplay: Ultra-sharp and fast, with a peak brightness of 2,600 nits.\nS Pen Stylus: Write away.\nSnapdragon Processor: Plenty of power.\nBattery Life: Better than last gen.\nConnectivity, Call Quality, and Speakers.\nCameras: Top-notch image quality.\nGalaxy AI is here.",
+      "image": "https://th.bing.com/th/id/OIP.KYLaaRTQ4bGXLczrjyu8EgHaHd?w=193&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "quantity": 1,
+      "userId": "bbf7",
+      "productId": "853b"
+    },
+    {
+      "id": "0f20",
+      "name": "HP 14",
+      "price": "36,980",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "HP Laptop 35.6 cm (14) 14-gr0001TU, Silver\n\n13th Generation Intel® Core™ i5 processor\nWindows 11 Home\n35.6 cm (14) diagonal FHD display with Intel® Iris® Xᵉ Graphics\n16 GB DDR4 RAM\n512 GB SSD Hard drive\nBacklit keyboard with numeric keypad, HP True Vision 1080p FHD",
+      "image": "https://th.bing.com/th/id/OIP.8oLRWyq5kEgRuHMWRjn8EQHaFr?w=249&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "quantity": 1,
+      "userId": "8a41",
+      "productId": "8dd0"
+    },
+    {
+      "id": "31db",
+      "name": "HP 14",
+      "price": "36,980",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "HP Laptop 35.6 cm (14) 14-gr0001TU, Silver\n\n13th Generation Intel® Core™ i5 processor\nWindows 11 Home\n35.6 cm (14) diagonal FHD display with Intel® Iris® Xᵉ Graphics\n16 GB DDR4 RAM\n512 GB SSD Hard drive\nBacklit keyboard with numeric keypad, HP True Vision 1080p FHD",
+      "image": "https://th.bing.com/th/id/OIP.8oLRWyq5kEgRuHMWRjn8EQHaFr?w=249&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "quantity": 1,
+      "productId": "8dd0",
+      "userId": "8a41"
+    },
+    {
+      "id": "dc15",
+      "name": "SAMSUNG S24",
+      "price": "96749",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "The Samsung Galaxy S24 Ultra is a smartphone with the following features123:\nDesign: Big, bold, and titanium.\nDisplay: Ultra-sharp and fast, with a peak brightness of 2,600 nits.\nS Pen Stylus: Write away.\nSnapdragon Processor: Plenty of power.\nBattery Life: Better than last gen.\nConnectivity, Call Quality, and Speakers.\nCameras: Top-notch image quality.\nGalaxy AI is here.",
+      "image": "https://th.bing.com/th/id/OIP.KYLaaRTQ4bGXLczrjyu8EgHaHd?w=193&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "quantity": 2,
+      "productId": "853b",
+      "userId": "4431"
+    }
+  ],
+  "orders": []
+}
